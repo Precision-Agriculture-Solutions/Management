@@ -18,3 +18,4 @@ Utilize SLACK to organize communication into one place.
 * Zoho
 * [Article](https://www.capterra.com/inventory-management-software/)
 * [Waspbarcode](https://www.waspbarcode.com/inventory-control/pricing)
+* [farmsoft](https://www.farmsoft.com/fresh-produce-inventory/farmsoft-fresh-produce-features.html)
